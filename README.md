@@ -1,6 +1,5 @@
 # 🏆 App Despesa Inteligente
-![GitHub repo size](https://img.shields.io/github/repo-size/BrunoOliveira16/app-gestao-de-gastos?style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/count/BrunoOliveira16/app-gestao-de-gastos?style=for-the-badge)
+
 ![Status projeto](https://img.shields.io/badge/STATUS-CONCLUIDO-GREEN?style=for-the-badge)
 
 ## ✔️ Tecnologias Utilizadas
@@ -28,7 +27,7 @@ Os usuários podem criar uma conta utilizando um endereço de e-mail e senha, co
 
 Os dados das despesas são armazenados no Firestore, garantindo a segurança e a integridade das informações. Os usuários podem adicionar, editar e excluir registros de despesas de forma dinâmica, proporcionando flexibilidade e controle total sobre suas finanças.
 
-> **OPCIONAL:** Se quiser utilizar um usuario de testes, já com dados cadastrados, utilize o login: bruno@email.com | senha: 123456
+> **OPCIONAL:** Se quiser utilizar um usuario de testes, já com dados cadastrados, utilize o login: hbv@email.com | senha: 123456
 
 <br>
 
@@ -74,9 +73,5 @@ para o usuário
 
 <br>
 
-## 🙋🏻‍♂️ Autor
-
-| [<img src="https://avatars.githubusercontent.com/u/103857382?v=4" width=115><br><sub>Bruno Oliveira</sub>](https://github.com/BrunoOliveira16) |
-| :---: |
 
 
